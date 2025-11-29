@@ -6,5 +6,7 @@
 
 # Amending the Most Recent Commit
 1. git commit --amend
-2. amend commit
-3. git push --force-with-lease
+2. press 'i' to enter "inser mode"
+3. amend commit
+4. press 'Esc' and type ":wq" (write + quit)
+5. git push --force-with-lease
