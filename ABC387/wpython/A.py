@@ -1,2 +1,2 @@
-deck = set(map(int,input().split()))
-print("Yes" if len(deck) == 2 else "No")
+A,B = map(int,input().split())
+print((A+B)*(A+B))
