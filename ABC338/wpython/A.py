@@ -1,0 +1,2 @@
+S = input()
+print("Yes" if S == S[0].upper() + S[1:].lower() else "No")
