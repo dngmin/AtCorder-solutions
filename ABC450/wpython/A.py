@@ -1,0 +1,1 @@
+print(",".join(map(str,list(range(int(input()),0,-1)))))
